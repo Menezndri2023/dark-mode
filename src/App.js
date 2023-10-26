@@ -1,5 +1,5 @@
 import './App.css'
-import DarkMode from './02-dark-mode/DarkMode'
+import DarkMode from './DarkMode'
 
 function App () {
   return (
